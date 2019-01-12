@@ -15,7 +15,6 @@ end
   end
 end
 while number > 0
-do
   div_2
   div_3
 end
