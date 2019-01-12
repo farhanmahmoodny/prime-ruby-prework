@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(number)
-  if number < 4 && number < 0
+  if number < 4 || number < 0
     return true
   elsif number % 2 == 0
     return false
